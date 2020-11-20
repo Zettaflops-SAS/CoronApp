@@ -107,7 +107,7 @@ Landing page based on Pratt: http://blacktie.co/demo/pratt/
                         <p>Evolución del coronavirus a nivel mundial.</p>
                     </div>
                     <div class="col-lg-4">
-                        <a href="https://twitter.com/inscolombia?lang=es" target="_blank"><img src="{{ asset('/img/intro03.png') }}" alt=""></a>
+                        <a href="https://github.com/Zettaflops-SAS/CoronApp" target="_blank"><img src="{{ asset('/img/intro03.png') }}" alt=""></a>
                         <h3>Diagramas</h3>
                         <p>Codigo fuente de la pagina web.</p>
                     </div>
